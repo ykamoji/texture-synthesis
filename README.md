@@ -5,13 +5,8 @@
 
 ![Random Implementation](https://github.com/ykamoji/texture-synthesis/blob/main/img_refs/Implementation_1.png?raw=true)
 
-<div style="text-align: center;">
+![Random Pic 1](https://github.com/ykamoji/texture-synthesis/blob/main/img_refs/Random_1.png?raw=true)
 
-<img src="https://github.com/ykamoji/texture-synthesis/blob/main/img_refs/Random_1.png?raw=true" width="450">
-<br><br><br>
+![Random Pic 2](https://github.com/ykamoji/texture-synthesis/blob/main/img_refs/Random_2.png?raw=true)
 
-<img src="https://github.com/ykamoji/texture-synthesis/blob/main/img_refs/Random_2.png?raw=true" width="450">
-<br><br><br>
-
-<img src="https://github.com/ykamoji/texture-synthesis/blob/main/img_refs/Random_3.png?raw=true" width="450">
-</div>
+![Random Pic 3](https://github.com/ykamoji/texture-synthesis/blob/main/img_refs/Random_3.png?raw=true)
